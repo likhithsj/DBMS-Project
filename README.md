@@ -18,7 +18,7 @@ Datasets
 
 we have collected two datasets from the internet. The first one is Stock data which was collected from Yahoo and the second dataset is Fuel data which was collected from Kaggle. The format of the data in the DataSet is the timestamp of the data, dirty data, and truth data. These data sets can be found in the code folder `data/`.
 
-To run the program first run 
+To run the program **C++14** or **higher** and **make** should be instsalled, first run 
 ```
 make clean
 ```
