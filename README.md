@@ -113,7 +113,7 @@ vector<TimePoint> resultList
 
 - The maximumSpeedConstraint, minimumSpeedConstraint, and window size for the FUEL dataset are -10, 10, and 5 respectively.
 - We have written test cases for all three algorithms following each dataset and a comparison between the local and update algorithms and local and heuristic algorithms.
-- By running the above ./main command all the test cases run and outputs are obtained.
+- By running the above ./main command all the test cases run and outputs are obtained and the rectified data files are generated.
 
 Finally, the obtained Output is attached below for the above-mentioned constraints
 
